@@ -1,0 +1,32 @@
+/*
+Theme Name: My Custom Theme
+Theme URI:
+Author: Maximilian
+Author URI:
+Description: This is my own theme. Very cool!
+Version: 1.0
+*/
+body {
+    padding:0;
+    margin: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+.menu {
+    background-color: #47afff;
+    padding: 16px 32px;
+
+}
+
+.main {
+    margin: 32px;
+}
